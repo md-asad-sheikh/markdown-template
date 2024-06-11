@@ -9,7 +9,7 @@ horizontal line --- or html hr
 
 # header 1
 
-## header 1
+## header 2
 
 ### header 3
 
