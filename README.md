@@ -20,6 +20,8 @@ horizontal line --- or html hr
 <del>Delete</del> or ~~Delete double tilde sign at both side~~  
 `single line coding styling - single backtick at both side`
 
+`php echo "single line php code"; `
+
 ```php
 // three backtick at both side for multiple line code
 // language name for style
